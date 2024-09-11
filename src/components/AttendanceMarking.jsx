@@ -11,6 +11,7 @@ function AttendanceMarking() {
           className=" w-3/12 text-sm border-none  outline-none hover: drop-shadow-2xl text-blue-500"
           placeholder="enter Name Here"
         />
+        Marking Page
       </div>
     </div>
   );
